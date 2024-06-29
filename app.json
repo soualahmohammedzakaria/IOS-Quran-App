@@ -28,8 +28,16 @@
       "expo-router"
     ],
     "experiments": {
-			"typedRoutes": true,
-			"tsconfigPaths": true
-		}
+      "typedRoutes": true,
+      "tsconfigPaths": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "27c27d3c-c7f1-4e6d-8846-456f2a9f8849"
+      }
+    }
   }
 }

@@ -11,7 +11,7 @@ const SuwarScreenLayout = () => {
                     name="index"
                     options={{
                         ...StackScreenWithSearchBar,
-                        headerTitle: "Suwar",
+                        headerTitle: "Suwar"
                     }}
                 />
             </Stack>
